@@ -25,7 +25,6 @@
 
     </dependencies>
 
-    <!-- Integrate with Jenkin -->
     <build>
         <plugins>
             <plugin>
